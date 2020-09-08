@@ -1,0 +1,16 @@
+# Function dependencies, for example:
+# package>=version
+Click==7.0
+Flask==1.0.2
+itsdangerous==1.1.0
+Jinja2==2.10
+MarkupSafe==1.1.0
+Pillow==5.4.1
+qrcode==6.1
+six==1.12.0
+Werkzeug==0.14.1
+google-cloud-error-reporting==0.30.0
+google-cloud-pubsub==0.38.0
+google-cloud-storage==1.30.0
+gcsfs==0.6.2
+pandas==1.1.0
